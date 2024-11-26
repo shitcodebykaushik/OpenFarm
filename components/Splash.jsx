@@ -13,8 +13,8 @@ const SplashScreen = ({ navigation }) => {
   return (
     <View style={styles.container}>
       {/* Logo Text */}
-      <Text style={styles.logoText}>देहात</Text>
-      <Text style={styles.taglineText}>बीज से बाज़ार तक</Text>
+      <Text style={styles.logoText}>खेत</Text>
+      <Text style={styles.taglineText}>खेत से ग्राहक तक</Text>
 
       {/* "Made in India" Section */}
       <View style={styles.footer}>
