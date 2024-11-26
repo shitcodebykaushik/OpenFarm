@@ -30,4 +30,4 @@ To run OpenFARM Hub locally:
 
 1. Clone the repository:
    ```bash
- https://github.com/shitcodebykaushik/OpenFarm.git
+    https://github.com/shitcodebykaushik/OpenFarm.git
