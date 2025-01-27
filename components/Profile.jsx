@@ -93,7 +93,7 @@ const ProfileScreen = ({ navigation }) => {
             style={styles.avatar}
           />
           <View style={styles.profileDetails}>
-            <Text style={styles.profileName}>Karan Aujla</Text>
+            <Text style={styles.profileName}>Kaushik Raj</Text>
             <Text style={styles.profileRole}>Senior Agriculture</Text>
           </View>
           <TouchableOpacity onPress={() => navigation.navigate('EditProfile')}>
